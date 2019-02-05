@@ -1,0 +1,14 @@
+F:\Dotnet\Blog\BlogProject\bin\Debug\netcoreapp2.1\BlogProject.deps.json
+F:\Dotnet\Blog\BlogProject\bin\Debug\netcoreapp2.1\BlogProject.runtimeconfig.json
+F:\Dotnet\Blog\BlogProject\bin\Debug\netcoreapp2.1\BlogProject.runtimeconfig.dev.json
+F:\Dotnet\Blog\BlogProject\bin\Debug\netcoreapp2.1\BlogProject.dll
+F:\Dotnet\Blog\BlogProject\bin\Debug\netcoreapp2.1\BlogProject.pdb
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.csprojAssemblyReference.cache
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.csproj.CoreCompileInputs.cache
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.RazorAssemblyInfo.cache
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.RazorAssemblyInfo.cs
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.AssemblyInfoInputs.cache
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.AssemblyInfo.cs
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.RazorTargetAssemblyInfo.cache
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.dll
+F:\Dotnet\Blog\BlogProject\obj\Debug\netcoreapp2.1\BlogProject.pdb

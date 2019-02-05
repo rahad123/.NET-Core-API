@@ -1,0 +1,23 @@
+[
+    {
+        "FistName": "Rahad",
+        "LastName": "Saidul",
+        "Email": "rahaddiu@gmail.com",
+        "ContactPhone": "01799052270",
+        "Password": "143-15-4487",
+        "Posts": [
+            {
+                "Title": "First Title",
+                "Body": "First Body",
+                "UsrId": "1",
+                "Comments": [
+                    {
+                        "Message": "FirstMessage",
+                        "PostId": "1"
+                    }
+                ]
+            }
+        ]
+
+    }
+]
